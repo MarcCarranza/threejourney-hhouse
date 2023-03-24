@@ -1,5 +1,6 @@
 # Three.js Journey
-
+Haunted House exercise
+[Demo](https://marccarranza.github.io/threejourney-hhouse/)
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
